@@ -1,3 +1,5 @@
+Prentru proiectu nou am creat alt git : https://github.com/surdyan/Diploma1
+
 Acest screenshot e de la Casdine
 
 
